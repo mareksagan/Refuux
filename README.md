@@ -1,2 +1,2 @@
 # Refuux
-Pitch deck for my startup
+Pitch deck for Refuux
